@@ -1,0 +1,46 @@
+/* 
+colors:
+blue: #253342
+red:#9e4040
+gray: #CCCCCC
+light-gray: #f2f4f4
+*/
+ 
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+
+    box-sizing: border-box;
+    font-family: 'Black Ops One', cursive;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+#container{
+    width: 100%;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2{
+    color: lawngreen;
+    font-size: 36px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:link{
+    color: rgb(0, 255, 64);
+}
+
+a:hover{
+    color: rgba(22, 202, 22, 0.815);
+}

@@ -1,0 +1,55 @@
+
+#game{
+    background-color: #253342;
+     text-align: center;
+     color: white;
+     padding-top: 40px;
+     margin-bottom: 40px;
+}
+
+#game h1{
+    color: white;
+
+}
+.row{
+   
+    height: 400px;
+    width: 90%;
+    margin: 45px auto;
+}
+
+.col-3{
+   
+
+    width: 32%;
+    float: left;
+    margin-right: 1%;
+    padding: 0px;
+}
+
+.col-left{
+    margin-left: 1%;
+}
+
+.tut-header{
+    font-size: 30px;
+    font-weight: bold;
+    color: orange;
+}
+
+.col-3 img{
+    border: 1px solid ;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 350px;
+}
+
+.cta.tuts{
+   
+    background-color: #ffffff; 
+    color: #999;
+    box-shadow: 0 5px #999;
+    color: black;
+   
+   
+}
